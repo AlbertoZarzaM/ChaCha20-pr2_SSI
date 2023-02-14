@@ -1,3 +1,13 @@
+/**
+ * @file SSI-pr2
+ * @author Alberto Zarza Martín (alu0101412993@ull.edu.es)
+ * @brief 
+ * @version 0.1
+ * @date 2023-02-07
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
 #include "ChaCha20.h"
 #include <iostream>
